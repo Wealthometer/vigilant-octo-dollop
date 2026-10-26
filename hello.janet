@@ -1,0 +1,4 @@
+(defn greet [name]
+  (string "Hello, " name "!"))
+
+(print (greet "Wealth"))
